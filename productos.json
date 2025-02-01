@@ -1,0 +1,25 @@
+[
+  {
+    "fechaVencimiento": "01/01/2025",
+    "esPerecedero": true,
+    "id": 1,
+    "nombre": "Manzanita",
+    "precio": 0.5,
+    "stock": 100
+  },
+  {
+    "tipoElectronico": "TELEFONO",
+    "id": 2,
+    "nombre": "Smartphone",
+    "precio": 500.0,
+    "stock": 50
+  },
+  {
+    "marca": "Nike",
+    "talle": 42,
+    "id": 3,
+    "nombre": "Camiseta",
+    "precio": 25.0,
+    "stock": 200
+  }
+]
