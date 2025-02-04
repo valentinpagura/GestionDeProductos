@@ -40,6 +40,8 @@ Serialización y Deserialización: Se utiliza la serialización para guardar obj
 
 CSV
 
+![image alt](https://github.com/user-attachments/assets/963d0a40-68dc-490c-9632-cd51f9188da2)
+
 Se pueden exportar los productos a un archivo CSV para visualizarlos en herramientas como Excel o Google Sheets.
 
 Serialización y Deserialización: Se convierten los productos a formato CSV para guardarlos y se pueden leer nuevamente para restaurar la información.
