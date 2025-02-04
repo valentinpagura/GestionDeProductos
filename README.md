@@ -22,7 +22,7 @@ Exportación de productos a CSV.
 
 Interfaz Gráfica (JavaFX): Para la administración de productos de manera visual.
 
-
+![image alt](https://github.com/valentinpagura/GestionDeProductos/blob/main/Captura%20de%20pantalla%202025-02-04%20003622.jpg?raw=true)
 
 Uso de JSON y CSV
 
