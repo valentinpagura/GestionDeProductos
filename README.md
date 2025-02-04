@@ -48,6 +48,8 @@ Serialización y Deserialización: Se convierten los productos a formato CSV par
 
 CRUD (Create, Read, Update, Delete)
 
+![image alt](https://github.com/valentinpagura/GestionDeProductos/blob/main/CRUD.jpg?raw=true)
+
 El proyecto implementa las operaciones básicas de CRUD:
 
 Crear un producto con los datos necesarios.
